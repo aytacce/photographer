@@ -9,10 +9,10 @@ const Pricing = () => {
             Pricing
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-500">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
           </p>
-          <div className="flex mx-auto border-2 border-indigo-500 rounded overflow-hidden mt-6">
-            <button className="py-1 px-4 bg-indigo-500 text-white focus:outline-none">
+          <div className="flex mx-auto border-2 border-gray-500 rounded overflow-hidden mt-6">
+            <button className="py-1 px-4 bg-gray-500 text-white focus:outline-none">
               Monthly
             </button>
             <button className="py-1 px-4 focus:outline-none">Annually</button>
@@ -95,8 +95,8 @@ const Pricing = () => {
             </div>
           </div>
           <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-            <div className="h-full p-6 rounded-lg border-2 border-indigo-500 flex flex-col relative overflow-hidden">
-              <span className="bg-indigo-500 text-white px-3 py-1 tracking-widest text-xs absolute right-0 top-0 rounded-bl">
+            <div className="h-full p-6 rounded-lg border-2 border-gray-500 flex flex-col relative overflow-hidden">
+              <span className="bg-gray-500 text-white px-3 py-1 tracking-widest text-xs absolute right-0 top-0 rounded-bl">
                 POPULAR
               </span>
               <h2 className="text-sm tracking-widest title-font mb-1 font-medium">
@@ -172,7 +172,7 @@ const Pricing = () => {
                 </span>
                 Mixtape chillwave tumeric
               </p>
-              <button className="flex items-center mt-auto text-white bg-indigo-500 border-0 py-2 px-4 w-full focus:outline-none hover:bg-indigo-600 rounded">
+              <button className="flex items-center mt-auto text-white bg-gray-500 border-0 py-2 px-4 w-full focus:outline-none hover:bg-gray-600 rounded">
                 Button
                 <svg
                   fill="none"
