@@ -4,9 +4,6 @@ const Testimonial = () => {
   return (
     <section className="text-gray-600 body-font">
       <div className="container px-5 py-24 mx-auto">
-      <h1 className="sm:text-4xl text-3xl font-medium title-font mb-2 text-gray-900">
-            Testimonial
-          </h1>
         <div className="flex flex-wrap -m-4">
           <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
             <div className="h-full text-center">
@@ -22,7 +19,7 @@ const Testimonial = () => {
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
               eu fugiat nulla pariatur.
               </p>
-              <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
+              <span className="inline-block h-1 w-10 rounded bg-gray-500 mt-6 mb-4"></span>
               <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
                 SARAH FERGUSON
               </h2>
@@ -43,7 +40,7 @@ const Testimonial = () => {
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
               eu fugiat nulla pariatur.
               </p>
-              <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
+              <span className="inline-block h-1 w-10 rounded bg-gray-500 mt-6 mb-4"></span>
               <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
                 MAX RIGHT
               </h2>
@@ -64,7 +61,7 @@ const Testimonial = () => {
               Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
               eu fugiat nulla pariatur.
               </p>
-              <span className="inline-block h-1 w-10 rounded bg-indigo-500 mt-6 mb-4"></span>
+              <span className="inline-block h-1 w-10 rounded bg-gray-500 mt-6 mb-4"></span>
               <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm">
                 LISA SMITH
               </h2>
