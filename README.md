@@ -2,6 +2,7 @@
 Simple website, designed for a person who wants to offer their photography services. It is a simple design, adapted to all screen formats, dedicated to demonstrating the use of technologies such as HTML, CSS, Javascript, React, Tailwind and Typescript. For its construction, I used resources available on the web such as Tailblocks, and the official Tailwind documentation.
 
 ## Hero page
+![1](https://github.com/yohanmayorga/photographer/assets/102123553/7545171c-5af3-4662-a186-dd8a802924c3)
 On the "Hero" page, you will find a wallpaper adapted to the service offered, a main photo of the photographer, and a text summarizing the service, as well as two main buttons for the main actions.
 
 ## Gallery
